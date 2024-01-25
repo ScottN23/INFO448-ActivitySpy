@@ -1,0 +1,10 @@
+2024-01-25 12:56:06.210  8762-8762  ActivitySpy             edu.uw.ischool.scottng.activityspy   I  onCreate event fired
+2024-01-25 12:56:06.212  8762-8762  ActivitySpy             edu.uw.ischool.scottng.activityspy   I  onStart event fired
+2024-01-25 12:56:06.213  8762-8762  ActivitySpy             edu.uw.ischool.scottng.activityspy   I  onResume event fired
+2024-01-25 12:56:06.253  8762-8792  EGL_emulation           edu.uw.ischool.scottng.activityspy   D  eglMakeCurrent: 0xdaa79b20: ver 2 0 (tinfo 0xe3cc6b10)
+2024-01-25 12:56:12.097  8762-8762  ActivitySpy             edu.uw.ischool.scottng.activityspy   I  onPause event fired
+2024-01-25 12:56:12.606  8762-8792  EGL_emulation           edu.uw.ischool.scottng.activityspy   D  eglMakeCurrent: 0xdaa79b20: ver 2 0 (tinfo 0xe3cc6b10)
+2024-01-25 12:56:12.610  8762-8762  ActivitySpy             edu.uw.ischool.scottng.activityspy   I  onStop event fired
+2024-01-25 12:56:12.611  8762-8762  ActivitySpy             edu.uw.ischool.scottng.activityspy   I  onDestroy event fired
+2024-01-25 12:56:12.611  8762-8762  ActivitySpy             edu.uw.ischool.scottng.activityspy   I  We're going down, Captain!
+2024-01-25 12:56:18.806  8762-8762  ActivityThread          edu.uw.ischool.scottng.activityspy   W  handleWindowVisibility: no activity for token android.os.BinderProxy@abbad68
