@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
     override fun onDestroy() {
         super.onDestroy()
         Log.i("ActivitySpy", "onDestroy event fired")
-        Log.i("ActivitySpy", "We're going down, Captain!")
+        Log.e("ActivitySpy", "We're going down, Captain!")
     }
 
     override fun onStart() {
